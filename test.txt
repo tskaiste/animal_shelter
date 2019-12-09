@@ -1,0 +1,2 @@
+$ ./vendor/bin/phpunit --stderr --coverage-html /c:/xampp/htdocs/reports
+TESTING
